@@ -4,9 +4,10 @@
 
 
 ## Objectives:
-	To develop an AI-driven chatbot that answers academic queries (like ChatGPT).
-	To implement a Chat with PDF feature that allows students to upload PDFs and ask questions based on the content.
-	To develop a Chat with YouTube feature where students can enter a video link and extract relevant information.
-	To create a Notes Generator that summarizes key concepts from PDFs into concise, well-structured notes.
-	To implement an MCQ Generator that extracts key information from text and formulates multiple-choice questions.
-	To provide a Flashcard Generator that allows students to create flashcards for quick revision.
+
+- To develop an AI-driven chatbot that answers academic queries (like ChatGPT).
+- To implement a Chat with PDF feature that allows students to upload PDFs and ask questions based on the content.
+- To develop a Chat with YouTube feature where students can enter a video link and extract relevant information.
+- To create a Notes Generator that summarizes key concepts from PDFs into concise, well-structured notes.
+- To implement an MCQ Generator that extracts key information from text and formulates multiple-choice questions.
+- To provide a Flashcard Generator that allows students to create flashcards for quick revision.
