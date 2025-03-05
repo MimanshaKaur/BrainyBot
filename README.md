@@ -1,0 +1,3 @@
+# BrainyBot: AI Smart Study Assistant
+
+- The “BrainyBot: AI Smart Study Assistant” is a web application designed to assist students in their academic journey by leveraging artificial intelligence and natural language processing. The system provides an interactive dashboard that allows users to search for topics, extract insights from PDFs and YouTube content, generate summarized notes, create multiple-choice questions (MCQs), and generate flashcards for revision
